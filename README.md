@@ -17,7 +17,7 @@
 
 ### - Learning :
 - ✨ Python
-- ✨ MongoDB
+- ✨ Mongo DB
 
 ### - Hobbies : 
 - ✨ Video Editing
