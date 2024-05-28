@@ -15,11 +15,12 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/CHAITANYASAI-del/CHAITANYASAI-del/blob/main/assets/1936.gif">
 
-### - Learning :
+### - Learnt :
 - ✨ Python
-- ✨ Mongo DB
+- ✨ c#
 
 ### - Hobbies : 
+- ✨ Visual Design
 - ✨ Video Editing
 - ✨ Watching Anime
 - ✨ Web Development
