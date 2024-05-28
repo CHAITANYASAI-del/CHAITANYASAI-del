@@ -21,9 +21,9 @@
 
 ### - Hobbies : 
 - ✨ Visual Design
+- ✨ 3d Motion Graphic
 - ✨ Video Editing
 - ✨ Watching Anime
-- ✨ Web Development
 
 
 </br>
