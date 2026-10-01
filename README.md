@@ -1,8 +1,18 @@
 # Konichiwa 👋
 
 <div align="center">
+  <a href="https://chaitanyasai-del.github.io" title="Open my portfolio">
+    <img width="760" alt="Chaitanya's portfolio — click to open the live site" src="assets/portfolio-preview.gif">
+  </a>
+  <br/>
+  <sub><a href="https://chaitanyasai-del.github.io"><b>✨ Explore my portfolio →</b></a></sub>
+</div>
+
+<!-- Previous header GIF (kept, not deleted). To restore, replace the block above with:
+<div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/CHAITANYASAI-del/CHAITANYASAI-del/blob/main/assets/208593.gif">
 </div>
+-->
 
 </br>
 </br>
